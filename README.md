@@ -10,3 +10,8 @@
 
 ## Folders
 ![image](https://github.com/Gitart/resizer/assets/3950155/ee296d4b-17ca-4a6a-88bc-763620df6000)
+
+## How to Resize an Image?
+1. Copy an image to pic.
+2. Run the program resizer.
+3. Get canged files in out/pic folder
