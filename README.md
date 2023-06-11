@@ -1,6 +1,5 @@
-![image](https://github.com/Gitart/resizer/assets/3950155/0f2cd37a-0854-40c1-8e2b-64b654f2725e)
+![image](https://github.com/Gitart/resizer/assets/3950155/19bc7aa9-1f2c-4624-b49c-3e8c29300ccd)
 
-# 💫 RESIZER
 **Resize to Pics**
 
 * The best image resizer to resize your images at the highest quality.  
