@@ -7,6 +7,17 @@
 * Simply upload your image and enter a target size. It's as easy as that!
 * It works on any platform (Windows, Linux, Mac).
 
+
+## Usage
+```    
+resize -dir pic -h 300 -w 200
+```
+
+**Parameters**
+* **-dir** - in folder 
+* **-h** - hight otput pic
+* **-w** - weight otput pic
+
 ## Folders
 ![image](https://github.com/Gitart/resizer/assets/3950155/ee296d4b-17ca-4a6a-88bc-763620df6000)
 
