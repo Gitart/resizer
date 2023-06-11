@@ -16,7 +16,7 @@ resize -dir pic -h 300 -w 200
 **Parameters**
 * **-dir** - folder for original pictures
 * **-h** - hight resizing otput pic
-* **-w** - weight resizing otput pic
+* **-w** - width resizing otput pic
 
 ## Folders
 ![image](https://github.com/Gitart/resizer/assets/3950155/ee296d4b-17ca-4a6a-88bc-763620df6000)
