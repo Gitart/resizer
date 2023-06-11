@@ -21,7 +21,9 @@ resize -dir pic -h 300 -w 200
 * **-w** - width resizing otput pic
 
 ## Folders
+<details>
 ![image](https://github.com/Gitart/resizer/assets/3950155/ee296d4b-17ca-4a6a-88bc-763620df6000)
+</details>  
 
 ## How to Resize an Image?
 1. Copy an image to folder **pic**
