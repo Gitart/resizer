@@ -3,3 +3,6 @@
 # RESIZER
 
 Resize to Pics   
+
+## Folders
+![image](https://github.com/Gitart/resizer/assets/3950155/ee296d4b-17ca-4a6a-88bc-763620df6000)
