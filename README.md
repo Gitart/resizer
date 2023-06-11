@@ -7,7 +7,6 @@
 * Highly scalable tool can resize your images within seconds!
 * Simply upload your image and enter a target size. It's as easy as that!
 * It works on any platform (Windows, Linux, Mac).
-* 
 
 ## Folders
 ![image](https://github.com/Gitart/resizer/assets/3950155/ee296d4b-17ca-4a6a-88bc-763620df6000)
