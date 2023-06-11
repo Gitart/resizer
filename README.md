@@ -1,4 +1,4 @@
-![image](https://github.com/Gitart/resizer/assets/3950155/19bc7aa9-1f2c-4624-b49c-3e8c29300ccd)
+![image](https://github.com/Gitart/resizer/assets/3950155/8895645d-6429-4939-834a-31f07043dd1c)
 
 **Resize to Pics**
 
